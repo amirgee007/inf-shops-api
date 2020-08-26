@@ -1,0 +1,1 @@
+# inf-shops-api
