@@ -1,0 +1,23 @@
+[role="main"] {
+  padding-top: 95px;
+}
+
+.content-page {
+  margin-left: 250px;
+  overflow: hidden;
+  width: 100%;
+}
+
+label {
+  font-weight: 500;
+}
+
+::selection {
+  background-color: #e91e63;
+  color: white;
+}
+
+::-moz-selection { /* Code for Firefox */
+  background-color: #e91e63;
+  color: white;
+}

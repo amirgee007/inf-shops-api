@@ -1,0 +1,57 @@
+.border-bottom-light {
+  border-bottom: 1px solid $body-bg;
+}
+
+.no-decoration {
+  text-decoration: none !important;
+}
+
+.flex-1 {
+  flex: 1;
+}
+
+.my-10p {
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+
+.my-5p {
+  margin-top: 7% !important;
+  margin-bottom: 7% !important;
+}
+
+.text-gray-500 {
+  color: $gray-500;
+}
+
+.badge-lg {
+  padding: 5px 8px;
+}
+
+.min-width-200 {
+  min-width: 200px;
+}
+
+.min-width-150 {
+  min-width: 150px;
+}
+
+.min-width-100 {
+  min-width: 100px;
+}
+
+.min-width-80 {
+  min-width: 80px;
+}
+
+.min-width-50 {
+  min-width: 50px;
+}
+
+.max-width-80 {
+  max-width: 80px;
+}
+
+.max-width-100 {
+  max-width: 100px;
+}

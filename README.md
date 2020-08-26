@@ -1,1 +1,1 @@
-# inf-shops-api
+## Vanguard - Advanced PHP Login and User Management
